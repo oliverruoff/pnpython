@@ -1,0 +1,11 @@
+name;weight;size;container;portable;comment
+name:      Name of the object
+weight:    0 light, 1 middle, 2 heavy, 3 very heavy
+size:      0 small, 1 middle, 2 big, 3 very big
+container: Can something be found in / on it? --> 1, otherwise 0
+portable:  Can someone take it with them? --> 1, otherwise 0
+comment:   Anything special on the object? Write down what you like.
+~~~~~~~~~~
+Schrank;2;2;1;0;Auf der Außenseite des Schrankes ist der Name Simon eingeritzt. #lol
+Bett;2;2;1;0;Nichts
+Stuhl;1;1;1;1;Ein gewöhnlicher Stuhl
